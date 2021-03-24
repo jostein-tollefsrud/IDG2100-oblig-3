@@ -76,13 +76,13 @@ Make sure to use `raw` and `JSON` in postman body.
 
 Examples:
 
-```
+```json
 {
     "newStatus": "busy"
 }
 ```
 or :
-```
+```json
 {
     "newName": "John"
 }
